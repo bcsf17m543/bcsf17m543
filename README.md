@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muneeba
-- 👀 I’m interested in Full Stack Web Development and Programming
+- 👀 I’m interested in Full Stack Web Development and Programming (asp.net core mvc, asp.net core, Java, Javascript, MERN, DJango)
 - 🌱 I’m currently a student of Computer Science at PUCIT
 - 💞️ I’m looking to collaborate with Services based software Companies
 - 📫
